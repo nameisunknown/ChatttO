@@ -23,7 +23,9 @@ chat_log = [{ 'role': 'system',
                          and all other type of protein that falls within this catgeory is from #500 to #2000. \
                          You can make suggestions to users depending on their tribe, or the type of food they would like \
                           to eat from a certain tribe. Delivery is also possible but they will negotiate with delivery personnel \
-                         by themelves. Ensure to be Polite nor matter what and encourage them to patronize us more often.'}]
+                         by themelves. Ensure to be Polite nor matter what and encourage them to patronize us more often.'
+              }
+            ]
 
 chat_responses = []
 
